@@ -1,1 +1,3 @@
 *.class
+/graphic/mavenproject1/target/
+/graphic/Graphic/target/
